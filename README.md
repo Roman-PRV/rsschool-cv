@@ -1,2 +1,1 @@
-# rsschool-cv
-init: first commit
+https://Roman-PRV.github.io/rsschool-cv/
